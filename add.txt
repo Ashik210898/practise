@@ -1,1 +1,4 @@
 a=x+y
+b=f+g
+c=v+c
+d=a+s
